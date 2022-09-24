@@ -1,3 +1,3 @@
-# Bape-Injector
-The injector for Bape Client
-copy the code in Main.java and enjoy it
+# Attach
+The injector for Minecraft
+for coremod with agentclass
